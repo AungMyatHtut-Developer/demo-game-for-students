@@ -14,5 +14,8 @@ public class GameWindow{
 // add new feature
 // modify player movement feature
 // add new Feature
+// adding new comment
 
 // GitLab, GitHub, BitBUcket
+
+// GitHub -> Repo -> branches -> DEV, UAT, SIT, PROD, HOTFIX, FEATURE
